@@ -5,7 +5,7 @@ int x,y,c;
 scanf("%d",&x)
 
 y=x-10/x*10
-
-printf("otvet %d\n", y);
+c=y/2
+printf("otvet %d\n", c);
 retern (0);
 }

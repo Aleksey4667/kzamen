@@ -6,6 +6,6 @@ scanf("%d",&x)
 
 y=x-10/x*10
 
-printf("otvet %f\n", y);
+printf("otvet %d\n", y);
 retern (0);
 }

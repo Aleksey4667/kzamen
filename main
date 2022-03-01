@@ -2,7 +2,7 @@
 int main()
 {
 int x,y,c;
-scanf("%f",&y)
+scanf("%d",&x)
 
 y=x-10/x*10
 
